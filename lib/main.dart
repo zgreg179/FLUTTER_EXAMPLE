@@ -66,8 +66,6 @@ class _UkrPayExamStatefulWidgetState extends State<UkrPayExamStatefulWidget> {
                       ),
                    )
                 ),
-                //Expanded(
-                   //child:
                 Container(
                        alignment:Alignment.bottomLeft,
                        child: TextField(
@@ -84,8 +82,7 @@ class _UkrPayExamStatefulWidgetState extends State<UkrPayExamStatefulWidget> {
                             border: InputBorder.none,
                           ),
                         )
-                    //)
-                ),
+                   ),
               ]
             )
       );
